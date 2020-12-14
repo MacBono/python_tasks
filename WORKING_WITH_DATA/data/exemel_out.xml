@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><actors>
+	<actor>
+		<first_name>Jeff</first_name>
+		<last_name>Dunst</last_name>
+		<birth_date>1982</birth_date>
+		<role>Mary Jane Watson</role>
+	</actor>
+	<actor>
+		<first_name>Jeff</first_name>
+		<last_name>Maguire</last_name>
+		<birth_date>1975</birth_date>
+		<role>Spider-Man / Peter Parker</role>
+	</actor>
+	<actor>
+		<first_name>Jeff</first_name>
+		<last_name>Dafoe</last_name>
+		<birth_date>1955</birth_date>
+		<role>Green Goblin / Norman Osborn</role>
+	</actor>
+	<actor>
+		<first_name>Jeff</first_name>
+		<last_name>Franco</last_name>
+		<birth_date>1978</birth_date>
+		<role>Harry Osborn</role>
+	</actor>
+</actors>
